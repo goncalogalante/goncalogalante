@@ -41,14 +41,14 @@ I'm an Electrical and Computer Engineering student, from Portugal 🇵🇹
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/pt-pt/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/jupter.png" alt="Jupyter" width="40" height="40"/> </a>
-<a href="https://github.com/goncalogalante/goncalogalante/blob/main/colab.png" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/colab1.png" alt="Google Colab" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/colab1.png" alt="Google Colab" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="[https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg](https://www.microsoft.com/pt-pt/microsoft-365/excel?market=pt)" target="_blank" rel="noreferrer"> <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/pt-pt/microsoft-365/excel?market=pt" target="_blank" rel="noreferrer"> <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 
 <h3 align="left"> AI & Data Science </h3>
-<a href="https://github.com/valohai/ml-logos/blob/master/numpy.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
