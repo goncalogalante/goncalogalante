@@ -72,9 +72,10 @@ I'm an Electrical and Computer Engineering student, from Portugal 🇵🇹
 <a href="https://www.linkedin.com/in/gon%C3%A7alo-galante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalogalante" height="30" width="40" /></a>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalogalante&show_icons=true&locale=en&layout=compact" alt="goncalogalante" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalogalante&show_icons=true&locale=en" alt="goncalogalante" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalogalante&show_icons=true&locale=en&layout=compact" alt="goncalogalante" /></p>
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalogalante&show_icons=true&locale=en" alt="goncalogalante" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goncalogalante&" alt="goncalogalante" /></p>
 
