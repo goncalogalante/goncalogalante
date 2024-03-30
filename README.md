@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> Hi there! :eyes: I'm Gonçalo Galante</h1>
+<img align="right" alt="Machine Learning" width="250" src="https://github.com/goncalogalante/goncalogalante/blob/main/machine-learning-baby-crying.gif">
 <h3 align="center"> A passionate for data! sometimes.. </h3>
 
-<br>
 
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
-<img align="right" alt="Machine Learning" width="250" src="https://github.com/goncalogalante/goncalogalante/blob/main/machine-learning-baby-crying.gif">
 
 I'm an Electrical and Computer Engineering student, from Portugal 🇵🇹
 
@@ -32,7 +31,7 @@ I'm an Electrical and Computer Engineering student, from Portugal 🇵🇹
 
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
-- ⚡ Fun fact: **dont know**
+<!--- ⚡ Fun fact: **dont know**!-->
 
 
 <h3 align="left">Languages, Tools and OS:</h3>
