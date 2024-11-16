@@ -57,7 +57,7 @@ I'm an Electrical and Computer Engineering student, from Portugal 🇵🇹
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/Gonka/Downloads/Langchain--Streamline-Simple-Icons.svg" alt="seaborn" width="40" height="40"/> </a>  
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="seaborn" width="40" height="40"/> </a>  
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/> </a>
 <a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/> </a>
