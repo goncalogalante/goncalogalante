@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 <img align="right" alt="Machine Learning" width="240" src="https://github.com/goncalogalante/goncalogalante/blob/main/machine-learning-baby-crying.gif">
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
 
-I'm an Electrical and Computer Engineering student, from Portugal 🇵🇹
+I'm an Electrical and Computer Engineering graduate, specialized in Artificial Intelligence from Portugal 🇵🇹
 
-- 🤖 Majoring in **Artificial Intelligence, Robotics and Control** 
+- 🤖 Major in **Artificial Intelligence, Robotics and Control** 
 
-- 🔭 Working on my **master's thesis**
-
-- 🌱 Enhancing my proficiency in **Data Science**
+- 🌱 Enhancing my proficiency in **Data Science and AI solutions**
 
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
