@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Machine Learning" width="240" src="https://github.com/goncalogalante/goncalogalante/blob/main/machine-learning-baby-crying.gif">
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
 
-I'm a Data Scientist and Machine Learning Engineer an from Portugal 🇵🇹
+I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 - 🤖 Majored in **Artificial Intelligence, Robotics and Control** from Electrical and Computer Engineering course.
 
