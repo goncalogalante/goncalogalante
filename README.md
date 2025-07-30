@@ -319,27 +319,21 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(7).png" alt="Boto3" width="42" height="42"/>
 </div>
 
-<h2 align="left"></h2>
+<h2 align="left">Databases</h2>
 
-<h3 align="left">Databases</h3>
-<table>
-  <tr>
-    <th align="center">SQL</th>
-    <th align="center">NoSQL</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40";"/>
-      <img width="8"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-left: 60px;"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="35" height="35"/>
-      <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="35" height="35" style="margin-left: 10px;"/>
-    </td>
-  </tr>
-</table>
+<h3 align="left">SQL</h3>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="AWS CDK logo" />
+   <img width="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="Terraform logo" />
+</div>
+
+<h3 align="left">NoSQL</h3>
+<div align="left">
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="35" height="35"/>
+   <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="35" height="35" style="margin-left: 10px;"/>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
