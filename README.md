@@ -49,20 +49,21 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 
 <h3 align="left"> AI & Data Science </h3>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="seaborn" width="40" height="40"/> </a>  
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/> </a>
-<a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/> </a>
-<a href="https://www.hitachivantara.com/pentaho/pentaho-plus-platform/data-integration-analytics.html" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/> </a>
-<a href="https://h2o.ai/" target="_blank" rel="noreferrer"> <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O" width="40" height="40"/> </a>
+<img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+<img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
+<img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
+<img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
+<img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O" width="40" height="40"/>
+
 </p>
 
 
