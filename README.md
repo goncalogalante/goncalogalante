@@ -176,6 +176,93 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="35" height="35" style="vertical-align: middle;"/> Microsoft Azure
 </h3>
 
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Services</th>
+  </tr>
+
+  <tr>
+    <td>AI & Machine Learning</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/openai.png" width="30"/> OpenAI in Foundry Models ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/contentsafety.png" width="30"/> AI Content Safety ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/speech.png" width="30"/> AI Speech
+    </td>
+  </tr>
+
+  <tr>
+    <td>Analytics</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dataexplorer.png" width="30"/> Azure Data Explorer
+    </td>
+  </tr>
+
+  <tr>
+    <td>Compute</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appservices.png" width="30"/> App Services ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/functionapp.png" width="30"/> Function App
+    </td>
+  </tr>
+
+  <tr>
+    <td>Databases</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cosmosdb.png" width="30"/> CosmosDB
+    </td>
+  </tr>
+
+  <tr>
+    <td>DevOps & Integration</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apim.png" width="30"/> API Management ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appinsights.png" width="30"/> Application Insights ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/eventgrid.png" width="30"/> Event Grid
+    </td>
+  </tr>
+
+  <tr>
+    <td>Management & Governance</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/resourcegroup.png" width="30"/> Resource Groups ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/subscriptions.png" width="30"/> Subscriptions ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/costmanagement.png" width="30"/> Cost Management + Billing
+    </td>
+  </tr>
+
+  <tr>
+    <td>Identity</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/managedidentities.png" width="30"/> Managed Identities
+    </td>
+  </tr>
+
+  <tr>
+    <td>Networking</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vnet.png" width="30"/> Virtual Networks ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/privatedns.png" width="30"/> Private DNS Zones
+    </td>
+  </tr>
+
+  <tr>
+    <td>Storage</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/blobstorage.png" width="30"/> Blob ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storageaccounts.png" width="30"/> Storage Accounts ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storagebrowser.png" width="30"/> Storage Browser
+    </td>
+  </tr>
+
+  <tr>
+    <td>Web & Mobile</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/staticwebapps.png" width="30"/> Static Web Apps
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Databases</h3>
 <table>
