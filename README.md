@@ -310,9 +310,9 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 <h3 align="left">Infrastructure as Code (IaC)</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
-  <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" height="40" alt="AWS CDK logo" />
+   <img width="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
 </div>
 
 <h2 align="left"></h2>
