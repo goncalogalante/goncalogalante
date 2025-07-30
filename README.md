@@ -80,19 +80,12 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-left: 60px;"/>
     </td>
     <td align="center">
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.png" alt="DynamoDB" width="40" height="40"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cosmosdb.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="35" height="35"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="35" height="35" style="margin-left: 10px;"/>
     </td>
   </tr>
 </table>
 
-
-<h3 align="left"> Databases:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/Flask.png" alt="flask" width="40" height="40"/>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
