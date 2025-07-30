@@ -266,9 +266,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 <h3 align="left">Infrastructure as Code (IaC)</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-cdk.png" alt="AWS CDK" width="40" height="40"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" alt="AWS CDK" width="40" height="40"/>
 </p>
 
+<h2 align="left"></h2>
 
 <h3 align="left">Databases</h3>
 <table>
