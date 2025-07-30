@@ -308,7 +308,7 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   </tr>
 </table>
 
-<h3 align="left">Infrastructure as Code (IaC) and SDK</h3>
+<h3 align="left">SDK & Infrastructure as Code (IaC)</h3>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" height="40" alt="AWS CDK logo" />
    <img width="8"/>
