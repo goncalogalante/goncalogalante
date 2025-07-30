@@ -314,7 +314,7 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
    <img width="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
   <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(5).png" alt="Azure SDK" width="50" height="50"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(5).png" alt="Azure SDK" width="40" height="40"/>
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/boto3.png" alt="Boto3" width="40" height="40"/>
 </div>
