@@ -336,12 +336,11 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/gon%C3%A7alo-galante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalogalante" height="30" width="40" /></a>
 </p>
-
-<br>
+<br
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goncalogalante&show_icons=true&locale=en&layout=compact" alt="goncalogalante" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goncalogalante&show_icons=true&locale=en" alt="goncalogalante" /></p>
