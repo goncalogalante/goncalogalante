@@ -67,19 +67,24 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 </p>
 
+
 <h3 align="left">Databases</h3>
-
-<h4 align="left">- SQL Databases</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-<h4 align="left">- NoSQL Databases</h4>
-<p align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.png" alt="DynamoDB" width="40" height="40"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cosmosdb.png" alt="CosmosDB" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <th align="center">SQL</th>
+    <th align="center">NoSQL</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40";"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-left: 60px;"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.png" alt="DynamoDB" width="40" height="40"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cosmosdb.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left"> Databases:</h3>
