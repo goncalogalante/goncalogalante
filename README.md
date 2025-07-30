@@ -67,45 +67,9 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 </p>
 
 
-<h3 align="left">☁️ Cloud Platforms & Services</h3>
-
-<table>
-  <tr>
-    <th align="center">
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="40" height="40"/><br/>AWS
-    </th>
-    <th align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/><br/>Azure
-    </th>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/bedrock.png" alt="Bedrock" width="20" height="20"/> Amazon Bedrock</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/lambda.png" alt="Lambda" width="20" height="20"/> AWS Lambda</p>
-      <p style="display: inline-flex; align-items: center;">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="25" height="25" style="margin-right: 8px;"/>
-  DynamoDB
-</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/s3.png" alt="S3" width="20" height="20"/> Amazon S3</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/apigateway.png" alt="API Gateway" width="20" height="20"/> API Gateway</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/iam.png" alt="IAM" width="20" height="20"/> IAM</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/codepipeline.png" alt="CodePipeline" width="20" height="20"/> CodePipeline</p>
-    </td>
-    <td align="left" valign="top">
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/blobstorage.png" alt="Blob Storage" width="20" height="20"/> Blob Storage</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/functions.png" alt="Azure Functions" width="20" height="20"/> Azure Functions</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="Cosmos DB" width="25" height="25"/> Cosmos DB</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/staticwebapp.png" alt="Static Web Apps" width="20" height="20"/> Static Web Apps</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/apim.png" alt="API Management" width="20" height="20"/> API Management</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/openai.png" alt="Azure OpenAI" width="20" height="20"/> Azure OpenAI</p>
-      <p><img src="https://github.com/goncalogalante/goncalogalante/blob/main/monitor.png" alt="Azure Monitor" width="20" height="20"/> Azure Monitor</p>
-    </td>
-  </tr>
-</table>
-
-
+<h2 align="left">☁️ Cloud Platforms & Services</h2>
 <h3 align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="35" height="35" style="vertical-align: middle;"/> AWS Cloud Services
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="35" height="35" style="vertical-align: middle;"/> Amazon Web Services (AWS)
 </h3>
 
 <table border="1" cellspacing="0" cellpadding="6">
@@ -206,6 +170,11 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
     </td>
   </tr>
 </table>
+
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="35" height="35" style="vertical-align: middle;"/> Microsoft Azure
+</h3>
 
 
 <h3 align="left">Databases</h3>
