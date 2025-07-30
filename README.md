@@ -38,30 +38,50 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img width="7"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img width="7"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/jupter.png" alt="Jupyter" width="40" height="40"/>
+<img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/colab1.png" alt="Google Colab" width="40" height="40"/>
+<img width="7"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+<img width="7"/>
 <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="Excel" width="40" height="40"/>
+<img width="7"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img width="7"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 <h3 align="left"> AI & Data Science </h3>
 <p align="left"> 
 <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img width="7"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<img width="7"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
+  <img width="7"/>
 <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O" width="40" height="40"/>
 
 </p>
@@ -81,7 +101,8 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Compute</td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/> EC2 · 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/> EC2 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/lambda.png" width="30" height="30"/> Lambda
     </td>
   </tr>
@@ -110,9 +131,12 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Network & Content Delivery</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vpc.png" width="30" height="30"/> VPC · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudfront.png" width="30" height="30"/> CloudFront · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apigateway.png" width="30" height="30"/> API Gateway · 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vpc.png" width="30" height="30"/> VPC 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudfront.png" width="30" height="30"/> CloudFront 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apigateway.png" width="30" height="30"/> API Gateway 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/route53.png" width="30" height="30"/> Route 53
     </td>
   </tr>
@@ -120,8 +144,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Developer Tools</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codecommit.png" width="30" height="30"/> CodeCommit · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codebuild.png" width="30" height="30"/> CodeBuild · 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codecommit.png" width="30" height="30"/> CodeCommit 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codebuild.png" width="30" height="30"/> CodeBuild 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codepipeline.png" width="30" height="30"/> CodePipeline
     </td>
   </tr>
@@ -130,7 +156,9 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
     <td>Management & Governance</td>
     <td>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudwatch.png" width="30" height="30"/> CloudWatch      
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudformation.png" width="30" height="30"/> CloudFormation · 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudformation.png" width="30" height="30"/> CloudFormation 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/config.png" width="30" height="30"/> AWS Config
     </td>
   </tr>
@@ -138,8 +166,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Machine Learning & GenAI</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sagemaker.png" width="30" height="30"/> Amazon SageMaker AI · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/bedrock.png" width="30" height="30"/> Amazon Bedrock · 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sagemaker.png" width="30" height="30"/> Amazon SageMaker AI 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/bedrock.png" width="30" height="30"/> Amazon Bedrock 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/amazonq.png" width="30" height="30"/> Amazon Q
     </td>
   </tr>
@@ -147,8 +177,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Analytics</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudsearch.png" width="30" height="30"/> CloudSearch · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/opensearch.png" width="30" height="30"/> OpenSearch · 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudsearch.png" width="30" height="30"/> CloudSearch 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/opensearch.png" width="30" height="30"/> OpenSearch 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sagemaker.png" width="30" height="30"/> SageMaker
     </td>
   </tr>
@@ -156,9 +188,12 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Security, Identity & Compliance</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cognito.png" width="30" height="30"/> Cognito · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/secretsmanager.png" width="30" height="30"/> Secrets Manager · 
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/iamidentity.png" width="30" height="30"/> IAM Identity Center · 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cognito.png" width="30" height="30"/> Cognito 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/secretsmanager.png" width="30" height="30"/> Secrets Manager 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/iamidentity.png" width="30" height="30"/> IAM Identity Center 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/iam.png" width="30" height="30"/> IAM
     </td>
   </tr>
@@ -185,8 +220,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>AI & Machine Learning</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/openai.png" width="30"/> OpenAI in Foundry Models ·
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/contentsafety.png" width="30"/> AI Content Safety ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/openai.png" width="30"/> OpenAI in Foundry Models 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/contentsafety.png" width="30"/> AI Content Safety
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/speech.png" width="30"/> AI Speech
     </td>
   </tr>
@@ -201,7 +238,8 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Compute</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appservices.png" width="30"/> App Services ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appservices.png" width="30"/> App Services
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/functionapp.png" width="30"/> Function App
     </td>
   </tr>
@@ -216,8 +254,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>DevOps & Integration</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apim.png" width="30"/> API Management ·
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appinsights.png" width="30"/> Application Insights ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apim.png" width="30"/> API Management 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appinsights.png" width="30"/> Application Insights
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/eventgrid.png" width="30"/> Event Grid
     </td>
   </tr>
@@ -225,8 +265,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Management & Governance</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/resourcegroup.png" width="30"/> Resource Groups ·
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/subscriptions.png" width="30"/> Subscriptions ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/resourcegroup.png" width="30"/> Resource Groups 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/subscriptions.png" width="30"/> Subscriptions 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/costmanagement.png" width="30"/> Cost Management + Billing
     </td>
   </tr>
@@ -241,7 +283,8 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Networking</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vnet.png" width="30"/> Virtual Networks ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vnet.png" width="30"/> Virtual Networks 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/privatedns.png" width="30"/> Private DNS Zones
     </td>
   </tr>
@@ -249,8 +292,10 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td>Storage</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/blobstorage.png" width="30"/> Blob ·
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storageaccounts.png" width="30"/> Storage Accounts ·
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/blobstorage.png" width="30"/> Blob 
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storageaccounts.png" width="30"/> Storage Accounts 
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storagebrowser.png" width="30"/> Storage Browser
     </td>
   </tr>
@@ -264,10 +309,11 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 </table>
 
 <h3 align="left">Infrastructure as Code (IaC)</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" alt="AWS CDK" width="40" height="40"/>
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" height="40" alt="AWS CDK logo" />
+</div>
 
 <h2 align="left"></h2>
 
@@ -280,10 +326,12 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40";"/>
+      <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-left: 60px;"/>
     </td>
     <td align="center">
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="35" height="35"/>
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="35" height="35" style="margin-left: 10px;"/>
     </td>
   </tr>
