@@ -69,7 +69,7 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 <h2 align="left">☁️ Cloud Platforms & Services</h2>
 <h3 align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="35" height="35" style="vertical-align: middle;"/> Amazon Web Services (AWS)
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="31" height="31" style="vertical-align: middle;"/> Amazon Web Services (AWS)
 </h3>
 
 <table border="1" cellspacing="0" cellpadding="6">
@@ -173,7 +173,7 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="35" height="35" style="vertical-align: middle;"/> Microsoft Azure
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="31" height="31" style="vertical-align: middle;"/> Microsoft Azure
 </h3>
 
 <table border="1" cellspacing="0" cellpadding="6">
