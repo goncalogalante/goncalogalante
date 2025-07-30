@@ -330,9 +330,9 @@ I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 <h3 align="left">NoSQL</h3>
 <div align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="35" height="35"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="40" height="40"/>
    <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="35" height="35" style="margin-left: 10px;"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
 </div>
 
 
