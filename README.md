@@ -48,7 +48,16 @@ Here are some ideas to get you started:
 <p align="left">
   I completed my Master's thesis at the <strong>Institute for Systems and Robotics (ISR)</strong>, where my work led to a research paper that was <strong>accepted for presentation</strong> in Texas, USA, at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE International Symposium on Biomedical Imaging</strong></a> — a top-tier IEEE conference.
 </p>
-
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Ieee_blue.jpg" alt="IEEE" width="85"/>
+    </td>
+    <td>
+      <li>Leveraging cutting-edge tech to build real-world AI applications</li>
+    </td>
+  </tr>
+</table>
 
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
