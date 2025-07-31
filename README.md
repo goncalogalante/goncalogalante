@@ -73,9 +73,6 @@ Here are some ideas to get you started:
 </ul>
 
 
-<!--- ⚡ Fun fact: **dont know**!-->
-<br>
-
 # Tech Stack
 
 
