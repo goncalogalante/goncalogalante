@@ -20,20 +20,21 @@ Here are some ideas to get you started:
 <img align="right" alt="Machine Learning" width="240" src="https://github.com/goncalogalante/goncalogalante/blob/main/machine-learning-baby-crying.gif">
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
 
-
+<br/>
 <p align="left">
   I'm a portuguese <strong> AI & Data Engineer</strong> at <strong>Volkswagen Group Services </strong>
 </p>
 <table>
   <tr>
     <td width="100">
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="100"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="110"/>
     </td>
     <td>
       <ul>
-        <li>Working with Generative AI & Cloud-native architectures</li>
-        <li>Developing intelligent backend pipelines with AWS & Azure</li>
-        <li>Designing AI agents using Retrieval-Augmented Generation (RAG)</li>
+        <li>Working with Generative AI & cloud-native architectures</li>
+        <li>Developing intelligent backend pipelines using AWS & Azure</li>
+        <li>Designing AI agents with Retrieval-Augmented Generation (RAG)</li>
+        <li>Leveraging cutting-edge technologies to deliver real-world AI solutions</li>
         <li>Part of the <strong>AI & Cloud Solutions</strong> team</li>
       </ul>
     </td>
@@ -41,8 +42,6 @@ Here are some ideas to get you started:
 </table>
 
 - 🤖 Majored in **Artificial Intelligence, Robotics and Control** from Electrical and Computer Engineering course.
-
-- 🌱 Enhancing my proficiency in **Data Science**
 
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
