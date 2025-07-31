@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Machine Learning" width="240" src="https://github.com/goncalogalante/goncalogalante/blob/main/machine-learning-baby-crying.gif">
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
 
+
 <p align="left">
   I'm a portuguese <strong> AI & Data Engineer</strong> at <strong>Volkswagen Group Services </strong>
 </p>
