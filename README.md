@@ -421,6 +421,20 @@ Here are some ideas to get you started:
 </div>
 
 
+<h2 align="left">Backend & Frontend Frameworks</h2>
+<p align="left">
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/streamlit-logo-png_seeklogo-441815.png" alt="Streamlit" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/gradio-color.png" alt="Gradio" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Flask%20(1).png" alt="Flask" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+</p>
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/gon%C3%A7alo-galante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalogalante" height="30" width="40" /></a>
