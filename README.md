@@ -30,13 +30,12 @@ Here are some ideas to get you started:
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="110"/>
     </td>
     <td>
-      <ul>
-        <li>Leveraging cutting-edge technologies to deliver real-world AI solutions</li>
-        <li>Working with Generative AI & cloud-native architectures</li>
-        <li>Developing scalable pipelines in AWS & Azure</li>
-        <li>Designing AI agents powered by Retrieval-Augmented Generation (RAG)</li>
-        <li>Part of the <strong>AI & Cloud Engineering</strong> team</li>
-      </ul>
+    <ul>
+      <li>Leveraging cutting-edge technologies to build real-world AI applications</li>
+      <li>Developing end-to-end, scalable Generative AI solutions on AWS & Azure</li>
+      <li>Ensuring data consistency and robust engineering across all solutions</li>
+      <li>Part of the <strong>AI & Cloud Engineering</strong> team</li>
+    </ul>
     </td>
   </tr>
 </table>
