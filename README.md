@@ -144,23 +144,23 @@ Here are some ideas to get you started:
   <tr>
     <td>Compute</td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/> EC2 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/EC2%20(1).png" width="30" height="30"/> EC2 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/lambda.png" width="30" height="30"/> Lambda
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Lambda%20(1).png" width="30" height="30"/> Lambda
     </td>
   </tr>
 
   <tr>
     <td>Containers</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/ecs.png" width="30" height="30"/> Elastic Container Service (ECS)
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Elastic%20Container%20Service.png" width="30" height="30"/> Elastic Container Service (ECS)
     </td>
   </tr>
 
   <tr>
     <td>Storage</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/s3.png" width="30" height="30"/> S3
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Simple%20Storage%20Service.png" width="30" height="30"/> S3
     </td>
   </tr>
 
@@ -174,42 +174,42 @@ Here are some ideas to get you started:
   <tr>
     <td>Network & Content Delivery</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vpc.png" width="30" height="30"/> VPC 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Virtual%20Private%20Cloud.png" width="30" height="30"/> VPC 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudfront.png" width="30" height="30"/> CloudFront 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CloudFront.png" width="30" height="30"/> CloudFront 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apigateway.png" width="30" height="30"/> API Gateway 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/API%20Gateway.png" width="30" height="30"/> API Gateway 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/route53.png" width="30" height="30"/> Route 53
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Route%2053.png" width="30" height="30"/> Route 53
     </td>
   </tr>
 
   <tr>
     <td>Developer Tools</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codecommit.png" width="30" height="30"/> CodeCommit 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CodeCommit.png" width="30" height="30"/> CodeCommit 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codebuild.png" width="30" height="30"/> CodeBuild 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CodeBuild.png" width="30" height="30"/> CodeBuild 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/codepipeline.png" width="30" height="30"/> CodePipeline
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CodePipeline.png" width="30" height="30"/> CodePipeline
     </td>
   </tr>
 
   <tr>
     <td>Management & Governance</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudwatch.png" width="30" height="30"/> CloudWatch      
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CloudWatch.png" width="30" height="30"/> CloudWatch      
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudformation.png" width="30" height="30"/> CloudFormation 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CloudFormation.png" width="30" height="30"/> CloudFormation 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/config.png" width="30" height="30"/> AWS Config
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Config.png" width="30" height="30"/> AWS Config
     </td>
   </tr>
 
   <tr>
     <td>Machine Learning & GenAI</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sagemaker.png" width="30" height="30"/> Amazon SageMaker AI 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/SageMaker%20(1).png" width="30" height="30"/> Amazon SageMaker AI 
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/bedrock.png" width="30" height="30"/> Amazon Bedrock 
       <img width="8"/>
@@ -223,8 +223,6 @@ Here are some ideas to get you started:
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudsearch.png" width="30" height="30"/> CloudSearch 
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/opensearch.png" width="30" height="30"/> OpenSearch 
-      <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sagemaker.png" width="30" height="30"/> SageMaker
     </td>
   </tr>
 
