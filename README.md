@@ -343,7 +343,7 @@ Here are some ideas to get you started:
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10002-icon-service-Subscriptions.png" width="30"/> Subscriptions 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/00004-icon-service-Cost-Management-and-Billing.png" width="30"/> Cost Management + Billing
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/00004-icon-service-Cost-Management-and-Billing.png" width="30"/> Cost Management and Billing
     </td>
   </tr>
 
