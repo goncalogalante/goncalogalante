@@ -380,6 +380,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
 </div>
 
+<h3 align="left">Vector</h3>
+<div align="left">
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pinecone.png" alt="Pinecone" width="40" height="40"/>
+   <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/OpenSearch%20Service.png" alt="Azure OpeanSearch Serverless DB" width="40" height="40" style="margin-left: 10px;"/>
+</div>
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
