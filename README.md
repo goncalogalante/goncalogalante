@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 -📫 Reach me whenever you want! <strong>goncalo.m.p.galante@gmail.com</strong></li>
 </ul>
 
+<br/>
 
 # Tech Stack
 
