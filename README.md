@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
 
 <p align="left">
-  I'm an <strong> AI & Data Engineer</strong> at Volkswagen Group Services 
+  I'm a portuguese <strong> AI & Data Engineer</strong> at Volkswagen Group Services 
 </p>
 <table>
   <tr>
@@ -38,8 +38,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
 - 🤖 Majored in **Artificial Intelligence, Robotics and Control** from Electrical and Computer Engineering course.
 
