@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 
-<h2 align="left">🧠 AI & Data Science</h2>
+<h2 align="left">AI & Data Science</h2>
 
-<h4 align="left">Machine Learning & Deep Learning</h4>
+<h3 align="left">Machine Learning & Deep Learning</h3>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img width="8"/>
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="left">☁️ Cloud Platforms & Services</h2>
+<h2 align="left">☁Cloud Platforms & Services</h2>
 <h3 align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="31" height="31" style="vertical-align: middle;"/> Amazon Web Services (AWS)
 </h3>
