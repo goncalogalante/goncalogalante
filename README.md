@@ -211,7 +211,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/SageMaker%20(1).png" width="30" height="30"/> Amazon SageMaker AI 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/bedrock.png" width="30" height="30"/> Amazon Bedrock 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="30" height="30"/> Amazon Bedrock 
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/amazonq.png" width="30" height="30"/> Amazon Q
     </td>
