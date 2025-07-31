@@ -299,23 +299,23 @@ Here are some ideas to get you started:
   <tr>
     <td>Analytics</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dataexplorer.png" width="30"/> Azure Data Explorer
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10145-icon-service-Azure-Data-Explorer-Clusters.png" width="30"/> Azure Data Explorer
     </td>
   </tr>
 
   <tr>
     <td>Compute</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appservices.png" width="30"/> App Services
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10035-icon-service-App-Services.png" width="30"/> App Services
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/functionapp.png" width="30"/> Function App
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10029-icon-service-Function-Apps.png" width="30"/> Function App
     </td>
   </tr>
 
   <tr>
     <td>Databases</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cosmosdb.png" width="30"/> CosmosDB
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10121-icon-service-Azure-Cosmos-DB.png" width="30"/> CosmosDB
     </td>
   </tr>
 
