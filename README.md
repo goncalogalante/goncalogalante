@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="left">
-  I'm a portuguese <strong> AI & Data Engineer</strong> at <strong>Volkswagen Group Services </strong>
+  I'm a portuguese <strong> AI & Data Engineer</strong> at <strong>Volkswagen Group Services </strong>,
 </p>
 <table>
   <tr>
