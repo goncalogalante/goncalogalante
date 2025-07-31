@@ -63,10 +63,12 @@ Here are some ideas to get you started:
 
 <br/>
 - 🚀 Passionate about continuous learning
-- 
+
+  
 <br/>
 - 💡 Inspired by software that creates real-world impact
-- 
+
+  
 <br/>
 - 📫 Reach me! <strong>goncalo.m.p.galante@gmail.com</strong>
 
