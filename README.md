@@ -54,7 +54,9 @@ Here are some ideas to get you started:
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Ieee_blue.jpg" alt="IEEE" width="85"/>
     </td>
     <td>
-      <li>Leveraging cutting-edge tech to build real-world AI applications</li>
+      <p align="left">
+  <a href="https://ieeexplore.ieee.org/document/10981022" target="_blank"><em>Beyond the Last Scan: The Role of Longitudinal Neuroimaging in Predicting Conversion to Alzheimer's Disease at Different Stages</em></a>.
+</p>
     </td>
   </tr>
 </table>
