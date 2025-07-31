@@ -61,16 +61,12 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<br/>
-- 🚀 Passionate about continuous learning
+<ul>
+  <li>🚀 Passionate about continuous learning and challenges</li>
+  <li>💡 Inspired by software that creates real-world impact</li>
+  <li>📫 Reach me! <strong>goncalo.m.p.galante@gmail.com</strong></li>
+</ul>
 
-  
-<br/>
-- 💡 Inspired by software that creates real-world impact
-
-  
-<br/>
-- 📫 Reach me! <strong>goncalo.m.p.galante@gmail.com</strong>
 
 <!--- ⚡ Fun fact: **dont know**!-->
 <br>
