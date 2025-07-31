@@ -220,29 +220,29 @@ Here are some ideas to get you started:
   <tr>
     <td>Analytics</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cloudsearch.png" width="30" height="30"/> CloudSearch 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CloudSearch.png" width="30" height="30"/> CloudSearch 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/opensearch.png" width="30" height="30"/> OpenSearch 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/OpenSearch%20Service.png" width="30" height="30"/> OpenSearch 
     </td>
   </tr>
 
   <tr>
     <td>Security, Identity & Compliance</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/cognito.png" width="30" height="30"/> Cognito 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Cognito.png" width="30" height="30"/> Cognito 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/secretsmanager.png" width="30" height="30"/> Secrets Manager 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Secrets%20Manager.png" width="30" height="30"/> Secrets Manager 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/iamidentity.png" width="30" height="30"/> IAM Identity Center 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/IAM%20Identity%20Center.png" width="30" height="30"/> IAM Identity Center 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/iam.png" width="30" height="30"/> IAM
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Aws-Iam--Streamline-Svg-Logos.png" width="30" height="30"/> IAM
     </td>
   </tr>
 
   <tr>
     <td>Cloud Financial Management</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/billing.png" width="30" height="30"/> Billing and Cost Management
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/f9389cc09fc253f1e30a661df0651707_kix.6op2tzirk8lf.png" width="30" height="30"/> Billing and Cost Management
     </td>
   </tr>
 </table>
