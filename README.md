@@ -40,7 +40,14 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-- 🤖 Majored in **Artificial Intelligence, Robotics and Control** from Electrical and Computer Engineering course.
+
+
+<p align="left">
+  and I hold a Master's in <strong>Artificial Intelligence, Robotics and Control</strong>.  
+  
+<p align="left">
+  I completed my Master's thesis at the <strong>Institute for Systems and Robotics (ISR)</strong>, where my work led to a research paper that was <strong>published and presented in Texas, USA</strong>, at the <strong>2025 IEEE International Symposium on Biomedical Imaging</strong> — a top-tier IEEE conference.
+</p>
 
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
