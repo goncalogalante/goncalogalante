@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <p align="left">
-  <a href="https://ieeexplore.ieee.org/document/10981022" target="_blank"><em>Beyond the Last Scan: The Role of Longitudinal Neuroimaging in Predicting Conversion to Alzheimer's Disease at Different Stages</em></a>.
+  <a href="https://ieeexplore.ieee.org/document/10981022" target="_blank"><em>"Beyond the Last Scan: The Role of Longitudinal Neuroimaging in Predicting Conversion to Alzheimer's Disease at Different Stages"</em></a>
 </p>
     </td>
   </tr>
