@@ -322,56 +322,54 @@ Here are some ideas to get you started:
   <tr>
     <td>DevOps & Integration</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/apim.png" width="30"/> API Management 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10042-icon-service-API-Management-Services.png" width="30"/> API Management 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/appinsights.png" width="30"/> Application Insights
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/00012-icon-service-Application-Insights.png" width="30"/> Application Insights
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/eventgrid.png" width="30"/> Event Grid
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10206-icon-service-Event-Grid-Topics.png" width="30"/> Event Grid
     </td>
   </tr>
 
   <tr>
     <td>Management & Governance</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/resourcegroup.png" width="30"/> Resource Groups 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10007-icon-service-Resource-Groups.png" width="30"/> Resource Groups 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/subscriptions.png" width="30"/> Subscriptions 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10002-icon-service-Subscriptions.png" width="30"/> Subscriptions 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/costmanagement.png" width="30"/> Cost Management + Billing
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/00004-icon-service-Cost-Management-and-Billing.png" width="30"/> Cost Management + Billing
     </td>
   </tr>
 
   <tr>
     <td>Identity</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/managedidentities.png" width="30"/> Managed Identities
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10227-icon-service-Managed-Identities.png" width="30"/> Managed Identities
     </td>
   </tr>
 
   <tr>
     <td>Networking</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/vnet.png" width="30"/> Virtual Networks 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10075-icon-service-Virtual-Networks-(Classic).png" width="30"/> Virtual Networks 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/privatedns.png" width="30"/> Private DNS Zones
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/02579-icon-service-Private-Endpoints.png" width="30"/> Private DNS Zones
     </td>
   </tr>
 
   <tr>
     <td>Storage</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/blobstorage.png" width="30"/> Blob 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/86_storage-blob.476c91d0b1.png" width="30"/> Blob 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storageaccounts.png" width="30"/> Storage Accounts 
-      <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/storagebrowser.png" width="30"/> Storage Browser
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/10087-icon-service-Storage-Accounts-(Classic).png" width="30"/> Storage Accounts 
     </td>
   </tr>
 
   <tr>
     <td>Web & Mobile</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/staticwebapps.png" width="30"/> Static Web Apps
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/01007-icon-service-Static-Apps.png" width="30"/> Static Web Apps
     </td>
   </tr>
 </table>
