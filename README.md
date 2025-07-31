@@ -118,11 +118,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Generative AI & NLP</h3>
 <p align="left">
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/hugging-face-icon-seeklogo.png" alt="HuggingFace" width="40" height="40"/>
+  <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="40" height="40"/>
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
 </p>
 
 <h3 align="left">Computer Vision</h3>
@@ -130,6 +132,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
 
 <h3 align="left">Data Manipulation, Wrangling & Visualization</h3>
@@ -141,6 +145,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/matplotilb.png" alt="Matplotlib" width="40" height="40"/>
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/seaborn.svg" alt="seaborn" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
 </p>
 
 
