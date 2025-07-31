@@ -126,6 +126,10 @@ Here are some ideas to get you started:
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
 </p>
+<p align="left">
+  <strong>models I've worked with:</strong><br/>
+  <code>Claude 3.7 Sonnet</code> · <code>Claude 3.5 Sonnet</code> · <code>GPT-4o</code> · <code>Mistral</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> · 
+</p>
 
 <h3 align="left">Computer Vision</h3>
 <p align="left">
