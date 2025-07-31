@@ -127,13 +127,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
 </p>
 <p align="left">
-  <small><strong>- Best multimodal LLMs I've integrated into solutions</strong></small><br/>
+  <small><strong>- Best multimodal LLMs I've integrated into solutions:</strong></small><br/>
   <code>Claude 3.7 Sonnet</code> · <code>Claude 3.5 Sonnet</code> · <code>GPT-4o</code> · 
   <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . <code>FLAN-T5</code>
 </p>
 
 <p align="left" style="font-size: 13px;">
-  <strong>Frontend frameworks for rapid AI prototyping:</strong><br/>
+  <strong>- Frontend frameworks for rapid AI interaction:</strong><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
