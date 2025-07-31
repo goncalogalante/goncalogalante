@@ -288,11 +288,11 @@ Here are some ideas to get you started:
   <tr>
     <td>AI & Machine Learning</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/openai.png" width="30"/> OpenAI in Foundry Models 
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/03438-icon-service-Azure-OpenAI.png" width="30"/> OpenAI in Foundry Models 
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/contentsafety.png" width="30"/> AI Content Safety
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/03390-icon-service-Content-Safety.png" width="30"/> AI Content Safety
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/speech.png" width="30"/> AI Speech
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/00797-icon-service-Speech-Services.png" width="30"/> AI Speech
     </td>
   </tr>
 
