@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <p align="left">
   <small><strong>-Models I've worked with:</strong></small><br/>
   <code>Claude 3.7 Sonnet</code> · <code>Claude 3.5 Sonnet</code> · <code>GPT-4o</code> · 
-  <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . 
+  <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . <code>FLAN-T5</code>
 </p>
 
 <p align="left" style="font-size: 13px;">
