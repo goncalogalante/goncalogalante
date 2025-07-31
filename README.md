@@ -132,12 +132,6 @@ Here are some ideas to get you started:
   <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . <code>FLAN-T5</code>
 </p>
 
-<p align="left" style="font-size: 13px;">
-  <strong>- Frontend frameworks for rapid AI interaction:</strong><br/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/streamlit-logo-png_seeklogo-441815.png" alt="Streamlit" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/gradio-color.png" alt="Gradio" width="40" height="40"/>
-</p>
 
 <h3 align="left">Computer Vision</h3>
 <p align="left">
