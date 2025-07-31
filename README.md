@@ -129,7 +129,12 @@ Here are some ideas to get you started:
 <p align="left">
   <small><strong>-Models I've worked with:</strong></small><br/>
   <code>Claude 3.7 Sonnet</code> · <code>Claude 3.5 Sonnet</code> · <code>GPT-4o</code> · 
-  <code>Mistral</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code>
+  <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . 
+</p>
+
+<p align="left" style="font-size: 13px;">
+  <strong>Frontend frameworks for rapid AI prototyping:</strong><br/>
+  <code>Streamlit</code> · <code>Gradio</code>
 </p>
 
 <h3 align="left">Computer Vision</h3>
