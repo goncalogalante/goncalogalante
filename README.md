@@ -62,8 +62,10 @@ Here are some ideas to get you started:
 </table>
 
 <br/>
-- 🚀 I'm passionate about continuous learning and love seeing software evolve from lines of code into solutions that create tangible, real-world impact.  
+- 🚀 Passionate about continuous learning
 <br/>
+- 💡 Inspired by software that creates real-world impact
+  <br/>
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
 <!--- ⚡ Fun fact: **dont know**!-->
