@@ -61,10 +61,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<div style="margin-top: 70px;">
-  - 📫 ALWAYS IMPROVING
-</div>
-
+<br/>
 - 📫 Reach me! **goncalo.m.p.galante@gmail.com**
 
 <!--- ⚡ Fun fact: **dont know**!-->
