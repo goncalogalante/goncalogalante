@@ -21,9 +21,23 @@ Here are some ideas to get you started:
 <!--<img align ="right" alt="Coding" width="200" src="https://tenor.com/pt-BR/view/machine-learning-gif-26114644"> !-->
 
 <p align="left">
-  <strong>I'm an AI & Data Engineer</strong> Volkswagen Group Services 
+  I'm an <strong> AI & Data Engineer</strong> at Volkswagen Group Services 
 </p>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="90"/>
+<table>
+  <tr>
+    <td width="100">
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="100"/>
+    </td>
+    <td>
+      <ul>
+        <li>Working with Generative AI & Cloud-native architectures</li>
+        <li>Developing intelligent backend pipelines with AWS & Azure</li>
+        <li>Designing AI agents using Retrieval-Augmented Generation (RAG)</li>
+        <li>Part of the <strong>AI & Cloud Solutions</strong> team</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 I'm a Data Scientist and Machine Learning Engineer from Portugal 🇵🇹
 
