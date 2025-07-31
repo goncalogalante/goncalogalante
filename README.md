@@ -127,14 +127,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
 </p>
 <p align="left">
-  <small><strong>-Models I've worked with:</strong></small><br/>
+  <small><strong>- Best multimodal LLMs I've worked with:</strong></small><br/>
   <code>Claude 3.7 Sonnet</code> · <code>Claude 3.5 Sonnet</code> · <code>GPT-4o</code> · 
   <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . <code>FLAN-T5</code>
 </p>
 
 <p align="left" style="font-size: 13px;">
   <strong>Frontend frameworks for rapid AI prototyping:</strong><br/>
-  <code>Streamlit</code> · <code>Gradio</code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
 </p>
 
 <h3 align="left">Computer Vision</h3>
@@ -159,37 +161,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
 </p>
 
-
-<h2 align="left">AI & Data Science</h2>
-<p align="left"> 
-<img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img width="9"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img width="9"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
-  <img width="9"/>
-<img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O" width="40" height="40"/>
-
-</p>
 
 
 <h2 align="left">☁Cloud Platforms & Services</h2>
