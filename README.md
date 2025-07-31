@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">AI & Data Science</h2>
 
-<h3 align="left">Machine Learning & Deep Learning</h3>
+<h4 align="left">Machine Learning & Deep Learning</h4>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img width="8"/>
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O.ai" width="40" height="40"/>
 </p>
 
-<h3 align="left">Generative AI & NLP</h3>
+<h4 align="left">Generative AI & NLP</h4>
 <p align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="40" height="40"/>
   <img width="8"/>
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left">Computer Vision</h3>
+<h4 align="left">Computer Vision</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img width="8"/>
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
 
-<h3 align="left">Data Manipulation, Wrangling & Visualization</h3>
+<h4 align="left">Data Manipulation, Wrangling & Visualization</h4>
 <p align="left">
   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/>
   <img width="8"/>
@@ -376,7 +376,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h3 align="left">Infrastructure & DevOps Tools</h3>
+<h4 align="left">Infrastructure & DevOps Tools</h4>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" height="40" alt="AWS CDK logo" />
    <img width="8"/>
@@ -393,21 +393,21 @@ Here are some ideas to get you started:
 
 <h2 align="left">Databases</h2>
 
-<h3 align="left">SQL</h3>
+<h4 align="left">SQL</h4>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="AWS CDK logo" />
    <img width="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="Terraform logo" />
 </div>
 
-<h3 align="left">NoSQL</h3>
+<h4 align="left">NoSQL</h4>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="40" height="40"/>
    <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
 </div>
 
-<h3 align="left">Vector</h3>
+<h4 align="left">Vector</h4>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pinecone.png" alt="Pinecone" width="40" height="40"/>
    <img width="8"/>
