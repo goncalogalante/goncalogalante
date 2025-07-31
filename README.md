@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 
 <p align="left" style="font-size: 13px;">
   <strong>- Frontend frameworks for rapid AI interaction:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/streamlit-logo-png_seeklogo-441815.png" alt="Streamlit" width="40" height="40"/>
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
 </p>
