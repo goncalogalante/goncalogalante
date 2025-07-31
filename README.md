@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="100">
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="110"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/unnamed.png" alt="Volkswagen" width="85"/>
     </td>
     <td>
     <ul>
