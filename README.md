@@ -397,21 +397,21 @@ Here are some ideas to get you started:
 
 <h2 align="left">Databases</h2>
 
-<h4 align="left">SQL</h3>
+<h3 align="left">SQL</h3>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="AWS CDK logo" />
    <img width="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="Terraform logo" />
 </div>
 
-<h4 align="left">NoSQL</h3>
+<h3 align="left">NoSQL</h3>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="40" height="40"/>
    <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
 </div>
 
-<h4 align="left">Vector</h3>
+<h3 align="left">Vector</h3>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pinecone.png" alt="Pinecone" width="40" height="40"/>
    <img width="8"/>
