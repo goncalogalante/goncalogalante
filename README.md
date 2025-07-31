@@ -132,18 +132,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
 </p>
 
-<h3 align="left">Data Manipulation & Wrangling</h3>
+<h3 align="left">Data Manipulation, Wrangling & Visualization</h3>
 <p align="left">
   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/>
   <img width="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</p>
-
-<h3 align="left">Data Visualization</h3>
-<p align="left">
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
   <img width="8"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/matplotilb.png" alt="Matplotlib" width="40" height="40"/>
+  <img width="8"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/seaborn.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
 
