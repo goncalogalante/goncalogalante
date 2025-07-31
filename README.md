@@ -31,11 +31,11 @@ Here are some ideas to get you started:
     </td>
     <td>
       <ul>
-        <li>Working with Generative AI & cloud-native architectures</li>
-        <li>Developing intelligent backend pipelines using AWS & Azure</li>
-        <li>Designing AI agents with Retrieval-Augmented Generation (RAG)</li>
         <li>Leveraging cutting-edge technologies to deliver real-world AI solutions</li>
-        <li>Part of the <strong>AI & Cloud Solutions</strong> team</li>
+        <li>Working with Generative AI & cloud-native architectures</li>
+        <li>Developing scalable pipelines in AWS & Azure</li>
+        <li>Designing AI agents powered by Retrieval-Augmented Generation (RAG)</li>
+        <li>Part of the <strong>AI & Cloud Engineering</strong> team</li>
       </ul>
     </td>
   </tr>
