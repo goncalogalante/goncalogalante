@@ -427,7 +427,7 @@ Here are some ideas to get you started:
   <img width="8"/>
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/gradio-color.png" alt="Gradio" width="40" height="40"/>
   <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Flask%20(1).png" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/flask%20(2).png" alt="Flask" width="40" height="40"/>
   <img width="8"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img width="8"/>
