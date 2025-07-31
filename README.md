@@ -275,7 +275,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Cloud Financial Management</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/f9389cc09fc253f1e30a661df0651707_kix.6op2tzirk8lf.png" width="30" height="30"/> Billing and Cost Management
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/f9389cc09fc253f1e30a661df0651707_kix.6op2tzirk8lf.png" width="30" height="30"/> Billing + Cost Management
     </td>
   </tr>
 </table>
