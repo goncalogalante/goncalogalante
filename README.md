@@ -440,7 +440,7 @@ Here are some ideas to get you started:
 </table>
 
 
-<h3 align="left">Infrastructure & DevOps Tools</h2>
+<h2 align="left">Infrastructure & DevOps Tools</h2>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
@@ -472,6 +472,34 @@ Here are some ideas to get you started:
     <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(5).png" alt="Azure SDK" width="30" height="30"/> Azure SDK
     <img width="8"/>
     <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(7).png" alt="Boto3" width="30" height="30"/> Boto3
+    </td>
+  </tr>
+</table>
+
+
+<h2 align="left">Collaboration & Project Tools</h2>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
+
+  <tr>
+    <td>Project Management</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/jira.svg" alt="Jira" width="30" height="30"/> Jira
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/confluence.png" alt="Confluence" width="30" height="30"/> Confluence
+    </td>
+  </tr>
+
+  <tr>
+    <td>Source Code & Version Control</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/bitbucket.png" alt="Bitbucket" width="30" height="30"/> Bitbucket
+      <img width="8"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> GitHub
     </td>
   </tr>
 </table>
