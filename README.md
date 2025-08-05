@@ -497,9 +497,11 @@ Here are some ideas to get you started:
   <tr>
     <td>Source Code & Version Control</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/bitbucket.png" alt="Bitbucket" width="30" height="30"/> Bitbucket
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/44_Bitbucket_logo_logos-512.png" alt="Bitbucket" width="30" height="30"/> Bitbucket
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/github_logo_icon_229278.png" alt="GitHub" width="30" height="30"/> GitHub
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/CodeCommit.png" alt="CodeCommit" width="30" height="30"/> CodeCommit
     </td>
   </tr>
 </table>
