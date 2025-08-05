@@ -440,7 +440,7 @@ Here are some ideas to get you started:
 </table>
 
 
-<h3 align="left">⚙️ Infrastructure & DevOps Tools</h2>
+<h3 align="left">Infrastructure & DevOps Tools</h2>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
