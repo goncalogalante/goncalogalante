@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   - Majored in <strong>Artificial Intelligence, Robotics and Control</strong> at <strong><em>Instituto Superior Técnico</em></strong>. 
   
 <p align="left">
-  - Wrote my Master's thesis at the <strong><em>Institute for Systems and Robotics</em></strong>, where my work led to a research paper that was <strong>accepted for presentation</strong> in Texas, USA, at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE International Symposium on Biomedical Imaging</strong></a> — a top-tier international IEEE conference.
+  - Researched at <strong><em>Institute for Systems and Robotics</em></strong>, where my thesis work led to a research paper that was <strong>accepted for presentation</strong> in Texas, USA, at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE International Symposium on Biomedical Imaging</strong></a> — a top-tier international IEEE conference.
 </p>
 
 </br>
@@ -170,6 +170,13 @@ Here are some ideas to get you started:
     </td>
   </tr>
 
+  <tr>
+    <td>Graphs & Networks</td>
+    <td
+     <img src="https://github.com/goncalogalante/goncalogalante/blob/main/networkx.png" alt="NetworkX" width="30" height="30"/> NetworkX  
+    </td>
+  </tr>
+  
   <tr>
     <td>Robotics</td>
     <td>
