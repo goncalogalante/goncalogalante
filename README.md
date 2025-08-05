@@ -104,61 +104,76 @@ Here are some ideas to get you started:
 
 
 <h2 align="left">AI & Data Science</h2>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
 
-<h3 align="left">Machine Learning & Deep Learning</h3>
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O.ai" width="40" height="40"/>
-</p>
+  <tr>
+    <td>Machine Learning & Deep Learning</td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> Scikit-learn
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30" height="30"/> TensorFlow
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="30" height="30"/> Keras
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30"/> PyTorch
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O.ai" width="30" height="30"/> H2O.ai
+    </td>
+  </tr>
 
-<h3 align="left">Generative AI & NLP</h3>
-<p align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/hugging-face-icon-seeklogo.png" alt="HuggingFace" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="40" height="40"/>
-</p>
+  <tr>
+    <td>Generative AI & NLP</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="30" height="30"/> Amazon Bedrock
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/hugging-face-icon-seeklogo.png" alt="HuggingFace" width="30" height="30"/> HuggingFace
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/03438-icon-service-Azure-OpenAI.png" width="30" height="30"/> Azure OpenAI
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="30" height="30"/> LangChain
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/nltk.png" alt="NLTK" width="30" height="30"/> NLTK
+    </td>
+  </tr>
+
+  <tr>
+    <td>Computer Vision</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="30" height="30"/> OpenCV
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="30" height="30"/> YOLO
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="30" height="30"/> Keras
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/scikitimage.png" alt="Scikit-image" width="30" height="30"/> Scikit-Image
+    </td>
+  </tr>
+
+  <tr>
+    <td>Data Manipulation, Wrangling & Visualization</td>
+    <td>
+      <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="30" height="30"/> NumPy
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> Pandas
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/matplotilb.png" alt="Matplotlib" width="30" height="30"/> Matplotlib
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/seaborn.svg" alt="seaborn" width="30" height="30"/> Seaborn
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="30" height="30"/> Pentaho
+    </td>
+  </tr>
+</table>
+
 <p align="left">
   <small>- Best multimodal LLMs I've integrated into solutions:</small><br/>
   <code>Claude 3.7 Sonnet</code> · <code>Claude 3.5 Sonnet</code> · <code>GPT-4o</code> · 
-  <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> . <code>FLAN-T5</code>
+  <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> · <code>FLAN-T5</code>
 </p>
-
-
-<h3 align="left">Computer Vision</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/yolo.png" alt="YOLO" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/scikitimage.png" alt="Keras" width="40" height="40"/>
-</p>
-
-<h3 align="left">Data Manipulation, Wrangling & Visualization</h3>
-<p align="left">
-  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/matplotilb.png" alt="Matplotlib" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/seaborn.svg" alt="seaborn" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pentaho.png" alt="Pentaho" width="40" height="40"/>
-</p>
-
 
 
 <h2 align="left">☁Cloud Platforms & Services</h2>
