@@ -176,6 +176,7 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h2 align="left">☁Cloud Platforms & Services</h2>
 <h3 align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/aws-logo-icon.avif" alt="AWS" width="31" height="31" style="vertical-align: middle;"/> Amazon Web Services (AWS)
