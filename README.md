@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="left">
-  I'm a portuguese <strong> AI & Data Engineer</strong> at <strong>Volkswagen Group Services</strong>,
+  I'm a portuguese <strong> AI & Data Engineer</strong> at <strong><em>Volkswagen Group Services</em></strong>,
 </p>
 <table>
   <tr>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </br>
 
 <p align="left">
-  - Majored in <strong>Artificial Intelligence, Robotics and Control</strong>.  
+  - Majored in <strong>Artificial Intelligence, Robotics and Control</strong> at <em>Instituto Superior Técnico</em>. 
   
 <p align="left">
   - Wrote my Master's thesis at the <strong>Institute for Systems and Robotics (ISR)</strong>, where my work led to a research paper that was <strong>accepted for presentation</strong> in Texas, USA, at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE International Symposium on Biomedical Imaging</strong></a> — a top-tier international IEEE conference.
