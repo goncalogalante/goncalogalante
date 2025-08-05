@@ -171,7 +171,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Robotics</td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="30" height="30"/> Robot Operating System (ROS)
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/logo-white.png" alt="OpenCV" width="30" height="30"/> Robot Operating System (ROS)
       <img width="8"/>
     </td>
   </tr>
