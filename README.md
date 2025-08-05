@@ -113,7 +113,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Machine Learning & Deep Learning</td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> Scikit-learn
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> Scikit
       <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30" height="30"/> TensorFlow
       <img width="8"/>
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
       <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30"/> PyTorch
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O.ai" width="30" height="30"/> H2O.ai
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O.ai" width="30" height="30"/> h2o.ai
     </td>
   </tr>
 
