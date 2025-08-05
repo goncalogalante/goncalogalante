@@ -425,7 +425,7 @@ Here are some ideas to get you started:
       <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
       <img width="8"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MicrosoftSQLServer
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sqlmicro.png" alt="MySQL" width="30" height="30"/> MicrosoftSQLServer
     </td>
   </tr>
 
