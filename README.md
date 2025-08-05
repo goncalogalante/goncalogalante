@@ -172,10 +172,11 @@ Here are some ideas to get you started:
 
   <tr>
     <td>Graphs & Networks</td>
-    <td
+    <td>
      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/networkx.png" alt="NetworkX" width="30" height="30"/> NetworkX  
     </td>
   </tr>
+
   
   <tr>
     <td>Robotics</td>
