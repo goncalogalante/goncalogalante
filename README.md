@@ -200,6 +200,8 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/> PostgreSQL
       <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/sqlmicro.png" alt="MicrosoftSQLStudio" width="30" height="30"/> Microsoft SQL Studio
     </td>
   </tr>
 
