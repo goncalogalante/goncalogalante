@@ -175,7 +175,7 @@ Here are some ideas to get you started:
   <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> · <code>FLAN-T5</code>
 </p>
 
-
+</br>
 
 <h2 align="left">☁Cloud Platforms & Services</h2>
 <h3 align="left">
