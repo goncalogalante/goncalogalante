@@ -154,7 +154,7 @@ Here are some ideas to get you started:
   </tr>
 
   <tr>
-    <td>Data Manipulation, Wrangling & Visualization</td>
+    <td>Data Wrangling, Visualization, ETL</td>
     <td>
       <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="NumPy" width="30" height="30"/> NumPy
       <img width="8"/>
