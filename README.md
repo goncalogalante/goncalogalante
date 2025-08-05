@@ -31,10 +31,10 @@ Here are some ideas to get you started:
     </td>
     <td>
     <ul>
+      li>Part of the <strong>AI & Cloud Engineering</strong> team</li>
       <li>Leveraging cutting-edge tech to build real-world AI applications</li>
       <li>Developing end-to-end, scalable Gen AI solutions on AWS & Azure</li>
       <li>Ensuring a consistent data engineering approach across solutions</li>
-      <li>Part of the <strong>AI & Cloud Engineering</strong> team</li>
     </ul>
     </td>
   </tr>
