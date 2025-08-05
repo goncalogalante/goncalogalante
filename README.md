@@ -521,17 +521,33 @@ Here are some ideas to get you started:
 
 
 <h2 align="left">Backend & Frontend Frameworks</h2>
-<p align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/streamlit-logo-png_seeklogo-441815.png" alt="Streamlit" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/gradio-color.png" alt="Gradio" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/flask%20(2).png" alt="Flask" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-</p>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
+
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/flask%20(2).png" alt="Flask" width="30" height="30"/> Flask
+    </td>
+  </tr>
+
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/streamlit-logo-png_seeklogo-441815.png" alt="Streamlit" width="30" height="30"/> Streamlit
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/gradio-color.png" alt="Gradio" width="30" height="30"/> Gradio
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30"/> HTML
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30"/> CSS
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">Connect with me:</h2>
