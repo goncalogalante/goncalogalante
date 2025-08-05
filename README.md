@@ -128,11 +128,11 @@ Here are some ideas to get you started:
   <tr>
     <td>Generative AI & NLP</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="30" height="30"/> Amazon Bedrock
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/images%20(1).png" width="30" height="30"/> Bedrock
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/hugging-face-icon-seeklogo.png" alt="HuggingFace" width="30" height="30"/> HuggingFace
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/03438-icon-service-Azure-OpenAI.png" width="30" height="30"/> Azure OpenAI
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/03438-icon-service-Azure-OpenAI.png" width="30" height="30"/> OpenAI
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/langchain.jpg" alt="LangChain" width="30" height="30"/> LangChain
       <img width="8"/>
