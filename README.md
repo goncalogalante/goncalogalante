@@ -184,8 +184,6 @@ Here are some ideas to get you started:
   <code>Mistral-7B</code> · <code>Nova Pro</code> · <code>Titan Text Embeddings V2</code> · <code>FLAN-T5</code>
 </p>
 
-</br>
-
 <h2 align="left">Databases</h2>
 
 <table border="1" cellspacing="0" cellpadding="6">
