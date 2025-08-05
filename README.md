@@ -439,6 +439,45 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+
+<h2 align="left">⚙️ Infrastructure & DevOps Tools</h2>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
+
+  <tr>
+    <td>Infrastructure as Code</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="30" height="30"/> Terraform
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" alt="AWS CDK" width="30" height="30"/> AWS CDK
+    </td>
+  </tr>
+
+  <tr>
+    <td>Containerization</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/> Docker
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" height="30"/> Kubernetes
+    </td>
+  </tr>
+
+  <tr>
+    <td>Cloud SDKs</td>
+    <td>
+    <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(5).png" alt="Azure SDK" width="42" height="42"/>
+    <img width="8"/>
+    <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(7).png" alt="Boto3" width="42" height="42"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <h3 align="left">Infrastructure & DevOps Tools</h3>
 <div align="left">
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/90621382.png" height="40" alt="AWS CDK logo" />
