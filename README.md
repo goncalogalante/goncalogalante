@@ -185,6 +185,42 @@ Here are some ideas to get you started:
 </p>
 
 
+<h2 align="left">Databases</h2>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
+
+  <tr>
+    <td>SQL Databases</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/> PostgreSQL
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td>NoSQL Databases</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="30" height="30"/> DynamoDB
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="30" height="30"/> Azure Cosmos DB
+    </td>
+  </tr>
+
+  <tr>
+    <td>Vector Databases</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pinecone.png" alt="Pinecone" width="30" height="30"/> Pinecone
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/OpenSearch%20Service.png" alt="OpenSearch" width="30" height="30"/> OpenSearch Service
+    </td>
+  </tr>
+</table>
+
 
 
 </br>
