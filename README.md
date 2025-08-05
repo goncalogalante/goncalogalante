@@ -488,9 +488,9 @@ Here are some ideas to get you started:
   <tr>
     <td>Project Management</td>
     <td>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/jira.svg" alt="Jira" width="30" height="30"/> Jira
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/5968875.png" alt="Jira" width="30" height="30"/> Jira
       <img width="8"/>
-      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/confluence.png" alt="Confluence" width="30" height="30"/> Confluence
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/5968793.png" alt="Confluence" width="30" height="30"/> Confluence
     </td>
   </tr>
 
