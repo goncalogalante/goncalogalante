@@ -119,6 +119,8 @@ Here are some ideas to get you started:
       <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="30" height="30"/> Keras
       <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/SageMaker%20(1).png" alt="TensorFlow" width="30" height="30"/> SageMaker
+      <img width="8"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30" height="30"/> PyTorch
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/h2o.png" alt="H2O.ai" width="30" height="30"/> H2O.ai
