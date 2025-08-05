@@ -469,9 +469,9 @@ Here are some ideas to get you started:
   <tr>
     <td>Cloud SDKs</td>
     <td>
-    <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(5).png" alt="Azure SDK" width="42" height="42"/>
+    <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(5).png" alt="Azure SDK" width="30" height="30"/> Azure SDK
     <img width="8"/>
-    <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(7).png" alt="Boto3" width="42" height="42"/>
+    <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Blue%20Black%20Modern%20letter%20S%20Logo%20Design%20(7).png" alt="Boto3" width="30" height="30"/> Boto3
     </td>
   </tr>
 </table>
