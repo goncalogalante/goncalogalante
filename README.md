@@ -409,28 +409,44 @@ Here are some ideas to get you started:
   <img src="https://github.com/goncalogalante/goncalogalante/blob/main/Kubernetes_logo_without_workmark.svg.png" alt="Docker" width="40" height="40"/>
 </div>
 
+
 <h2 align="left">Databases</h2>
 
-<h3 align="left">SQL</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="AWS CDK logo" />
-   <img width="8"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="Terraform logo" />
-</div>
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
 
-<h3 align="left">NoSQL</h3>
-<div align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="40" height="40"/>
-   <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="40" height="40" style="margin-left: 10px;"/>
-</div>
+  <tr>
+    <td>SQL Databases</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/> PostgreSQL
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
+      <img width="8"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MicrosoftSQLServer
+    </td>
+  </tr>
 
-<h3 align="left">Vector</h3>
-<div align="left">
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pinecone.png" alt="Pinecone" width="40" height="40"/>
-   <img width="8"/>
-  <img src="https://github.com/goncalogalante/goncalogalante/blob/main/OpenSearch%20Service.png" alt="Azure OpeanSearch Serverless DB" width="40" height="40" style="margin-left: 10px;"/>
-</div>
+  <tr>
+    <td>NoSQL Databases</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="30" height="30"/> DynamoDB
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="30" height="30"/> Azure Cosmos DB
+    </td>
+  </tr>
+
+  <tr>
+    <td>Vector Databases</td>
+    <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/pinecone.png" alt="Pinecone" width="30" height="30"/> Pinecone
+      <img width="8"/>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/OpenSearch%20Service.png" alt="OpenSearch" width="30" height="30"/> OpenSearch Service
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">Backend & Frontend Frameworks</h2>
