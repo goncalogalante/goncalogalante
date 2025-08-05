@@ -520,7 +520,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left">Backend & Frontend Frameworks</h2>
+<h2 align="left">Web Development Frameworks</h2>
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
