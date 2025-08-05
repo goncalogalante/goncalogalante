@@ -220,7 +220,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-</br>
+
 
 <h2 align="left">☁Cloud Platforms & Services</h2>
 <h3 align="left">
