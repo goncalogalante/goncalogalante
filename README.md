@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
+</br>
 
 <p align="left">
   - Majored in <strong>Artificial Intelligence, Robotics and Control</strong>.  
