@@ -68,15 +68,10 @@ Here are some ideas to get you started:
 </br>
 
 🚀 Passionate about continuous learning and challenges</li>
-
-
 💡 Inspired by software that creates real-world impact</li>
-
-
 📫 Reach me whenever you want! <strong>goncalo.m.p.galante@gmail.com</strong></li>
 </ul>
 
-<br/>
 
 # Tech Stack
 
