@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   - Majored in <strong>Artificial Intelligence, Robotics and Control</strong> at <strong><em>Instituto Superior Técnico</em></strong>. 
   
 <p align="left">
-  - Master's thesis at the <strong><em>Institute for Systems and Robotics</em></strong> led to a paper <strong>accepted</strong> at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE ISBI</strong></a> (Texas, USA), a top-tier IEEE conference.
+  - Master's thesis at the <strong><em>Institute for Systems and Robotics</em></strong> led to a paper <strong>accepted</strong> for presentation at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE ISBI</strong></a> (Texas, USA), a top-tier IEEE conference.
 
 </p>
 
