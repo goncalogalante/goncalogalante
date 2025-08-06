@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-</br>
+
 
 🚀 Passionate about continuous learning and challenges</li>
 💡 Inspired by software that creates real-world impact</li>
