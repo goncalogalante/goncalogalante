@@ -211,6 +211,8 @@ Here are some ideas to get you started:
   <tr>
     <td>NoSQL Databases</td>
     <td>
+      <img src="https://github.com/goncalogalante/goncalogalante/blob/main/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="30" height="30"/> MongoDB
+      <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/dynamodb.jpg" alt="DynamoDB" width="30" height="30"/> DynamoDB
       <img width="8"/>
       <img src="https://github.com/goncalogalante/goncalogalante/blob/main/azure_cosmos_db_logo_freelogovectors.net_.png" alt="CosmosDB" width="30" height="30"/> Azure Cosmos DB
