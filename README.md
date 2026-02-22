@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 </br>
 
+<br>
+</br>
 <!--
 <p align="left">
   - Majored in <strong>Artificial Intelligence, Robotics and Control</strong> at <strong><em>Instituto Superior Técnico</em></strong>. 
