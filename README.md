@@ -51,7 +51,6 @@ Here are some ideas to get you started:
   - Master's thesis at the <strong><em>Institute for Systems and Robotics</em></strong> led to a <strong>paper accepted</strong> for presentation at the <a href="https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging" target="_blank"><strong>2025 IEEE ISBI</strong></a> (Texas, USA), a top-tier IEEE conference.
 
 </p>
--->
 
 
 
@@ -73,7 +72,7 @@ Here are some ideas to get you started:
 </br>
 
 🚀 Passionate about continuous learning and challenges</li>
-💡 Inspired by software that creates real-world impact</li>
+ Inspired by software that creates real-world impact</li>
 </ul>
 
 
