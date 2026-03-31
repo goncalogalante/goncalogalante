@@ -6,3 +6,7 @@ I design and develop <strong>agentic AI</strong>, <strong>LLM-powered applicatio
 <br><br>
 <strong>From idea to production</strong>: I build systems that don’t just work in demos, but in <strong>real-world environments</strong>.
 </p>
+
+<p align="left">
+🔗 <a href="https://goncalogalante.com/" target="_blank"><strong>Personal Website</strong></a>
+</p>
