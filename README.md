@@ -2,7 +2,7 @@
 
 <p align="left">
 I'm an <strong>AI & Data Engineer</strong> building production-ready GenAI/ML systems at scale across cloud and on-premise environments.  
-I design and develop <strong>agentic AI</strong> and LLM-powered applications with RAG workflows, integrated into scalable backend systems and data pipelines across AWS and Azure — including CI/CD, infrastructure as code, and production-grade deployments.  
+My recent focus has been designing and developing <strong>agentic AI</strong> and LLM-powered applications with RAG workflows, integrated into scalable backend systems and data pipelines across AWS and Azure — including CI/CD, infrastructure as code, and production-grade deployments.  
 <br><br>
 <strong>From idea to production</strong>: I build systems that don’t just work in demos, but in real-world environments.
 </p>
