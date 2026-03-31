@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! :eyes: I'm Gonçalo Galante</h1>
+<h1 align="left"> Hi there!👋 </h1>
 
 <p align="left">
 I'm an <strong>AI & Data Engineer</strong> building production-ready GenAI/ML systems at scale across cloud and on-premise environments.  
