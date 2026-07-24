@@ -1,9 +1,9 @@
 <h1 align="left"> Hi there!👋 </h1>
 
 <p align="left">
-As an AI & Data Engineer at Volkswagen Group Services, I work within the AI & Data Solutions team, designing and delivering software solutions that transform business needs into scalable, production-ready systems in close collaboration with stakeholders.
+I'm an AI & Data Engineer at Volkswagen Group Services, with hands-on experience across GenAI/ML engineering, enterprise Cloud solutions and Backend development. I develop and deliver scalable end-to-end software solutions across cloud and on-premise environments, working closely with international business and technical stakeholders.
 <br>
-Working across both cloud and on-premise environments, with a recent focus on software development and GenAI/ML integration, I have been involved in building agent-based architectures, RAG workflows, and full-stack applications, while also covering the full delivery lifecycle through Infrastructure as Code, CI/CD pipelines, authentication, and monitoring.
+My recent work sits at the intersection of Software Engineering and GenAI/ML, with a strong focus on designing and building production-ready GenAI/ML platforms on AWS, including Advanced RAG and Agent-based systems, alongside Backend services, APIs, and Full-Stack applications, supported by DevOps practices such as IaC, CI/CD, and monitoring.
 
 <p align="left">
 🔗 <a href="https://goncalogalante.com/" target="_blank"><strong>Personal Website</strong></a>
